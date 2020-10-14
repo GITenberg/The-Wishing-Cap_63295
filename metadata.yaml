@@ -1,0 +1,35 @@
+_repo: The-Wishing-Cap_63295
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sherwood, Mary Martha
+    aliases:
+    - Butt, Mary Martha
+    - Sherwood, Mary Martha Butt
+    - Sherwood, Mrs.
+    birthdate: 1775
+    deathdate: 1851
+    gutenberg_agent_id: '4312'
+    url: http://www.gutenberg.org/2009/agents/4312
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Martha_Sherwood
+description: ''
+gutenberg_issued: '2020-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Avarice -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Children -- Death -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Wishes -- Juvenile fiction'
+- GITenberg
+title: The Wishing Cap
+url: http://www.gutenberg.org/ebooks/63295
